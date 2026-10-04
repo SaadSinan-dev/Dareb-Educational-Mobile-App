@@ -147,6 +147,8 @@ dart run tool/generate_localizations.dart
 
 ## Testing and project quality
 
+Client APK location, checksum, technical signing status and measured release checks are documented in the [client delivery report](docs/client-delivery.md). Generated APKs are not committed to this repository.
+
 **Validation commands and current results are maintained in the [testing guide](docs/testing.md).**
 
 The ordinary suite runs without live mutations. It covers API mapping/multipart fields, session restoration/expiry, account-state isolation, request races, retries, validators, tab preservation, RTL/LTR, responsive layouts and bundled assets. Sanitized fixtures retain observed response schemas while replacing backend labels and media URLs.
