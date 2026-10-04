@@ -1,0 +1,692 @@
+{
+  "notes": "Crop coordinates refer to the supplied original PNG exports, which are not runtime dependencies and are not distributed here. Vector source URLs and licenses are retained.",
+  "assets": [
+    {
+      "asset": "assets/images/logo_white.png",
+      "x": 149,
+      "y": 58,
+      "width": 126,
+      "height": 118,
+      "coordinateWidth": 430,
+      "backgroundKey": "turquoise",
+      "sourceExport": "Log In.png"
+    },
+    {
+      "asset": "assets/images/logo_color.png",
+      "x": 100,
+      "y": 358,
+      "width": 230,
+      "height": 216,
+      "coordinateWidth": 430,
+      "backgroundKey": "white",
+      "sourceExport": "Splash screen-1.png"
+    },
+    {
+      "asset": "assets/images/avatar.png",
+      "x": 122,
+      "y": 169,
+      "width": 190,
+      "height": 166,
+      "coordinateWidth": 430,
+      "backgroundKey": "",
+      "sourceExport": "Profile Page.png"
+    },
+    {
+      "asset": "assets/images/gallery_1.png",
+      "x": 224,
+      "y": 178,
+      "width": 185,
+      "height": 141,
+      "coordinateWidth": 430,
+      "backgroundKey": "",
+      "sourceExport": "Gallery Page.png"
+    },
+    {
+      "asset": "assets/images/gallery_2.png",
+      "x": 21,
+      "y": 178,
+      "width": 185,
+      "height": 141,
+      "coordinateWidth": 430,
+      "backgroundKey": "",
+      "sourceExport": "Gallery Page.png"
+    },
+    {
+      "asset": "assets/images/gallery_3.png",
+      "x": 21,
+      "y": 348,
+      "width": 185,
+      "height": 138,
+      "coordinateWidth": 430,
+      "backgroundKey": "",
+      "sourceExport": "Gallery Page.png"
+    },
+    {
+      "asset": "assets/images/gallery_4.png",
+      "x": 224,
+      "y": 348,
+      "width": 185,
+      "height": 138,
+      "coordinateWidth": 430,
+      "backgroundKey": "",
+      "sourceExport": "Gallery Page.png"
+    },
+    {
+      "asset": "assets/images/news.png",
+      "x": 6,
+      "y": 860,
+      "width": 407,
+      "height": 114,
+      "coordinateWidth": 430,
+      "backgroundKey": "",
+      "sourceExport": "Home Page.png"
+    },
+    {
+      "asset": "assets/illustrations/teacher.png",
+      "x": 65,
+      "y": 66,
+      "width": 287,
+      "height": 324,
+      "coordinateWidth": 430,
+      "backgroundKey": "turquoise",
+      "sourceExport": "Detail Page.png"
+    },
+    {
+      "asset": "assets/illustrations/teacher_photo.png",
+      "x": 289,
+      "y": 1047,
+      "width": 88,
+      "height": 110,
+      "coordinateWidth": 430,
+      "backgroundKey": "",
+      "sourceExport": "Home Page.png"
+    },
+    {
+      "asset": "assets/illustrations/graduates.png",
+      "x": 25,
+      "y": 421,
+      "width": 201,
+      "height": 176,
+      "coordinateWidth": 430,
+      "backgroundKey": "",
+      "sourceExport": "Home Page.png"
+    },
+    {
+      "asset": "assets/illustrations/student.png",
+      "x": 32,
+      "y": 416,
+      "width": 172,
+      "height": 164,
+      "coordinateWidth": 430,
+      "backgroundKey": "",
+      "sourceExport": "Home Page-1.png"
+    },
+    {
+      "asset": "assets/images/lesson_intro.png",
+      "x": 44,
+      "y": 206,
+      "width": 340,
+      "height": 301,
+      "coordinateWidth": 430,
+      "backgroundKey": "",
+      "sourceExport": "Detail Page-3.png"
+    },
+    {
+      "asset": "assets/images/lesson_poster.png",
+      "x": 1,
+      "y": 54,
+      "width": 428,
+      "height": 163,
+      "coordinateWidth": 430,
+      "backgroundKey": "",
+      "sourceExport": "Detail Page-6.png"
+    },
+    {
+      "asset": "assets/icons/math.png",
+      "x": 49,
+      "y": 225,
+      "width": 62,
+      "height": 64,
+      "coordinateWidth": 430,
+      "backgroundKey": "white",
+      "sourceExport": "Cateogries page.png"
+    },
+    {
+      "asset": "assets/icons/science.png",
+      "x": 181,
+      "y": 216,
+      "width": 68,
+      "height": 72,
+      "coordinateWidth": 430,
+      "backgroundKey": "white",
+      "sourceExport": "Cateogries page.png"
+    },
+    {
+      "asset": "assets/icons/social.png",
+      "x": 318,
+      "y": 216,
+      "width": 68,
+      "height": 73,
+      "coordinateWidth": 430,
+      "backgroundKey": "white",
+      "sourceExport": "Cateogries page.png"
+    },
+    {
+      "asset": "assets/icons/quiz.png",
+      "x": 337,
+      "y": 339,
+      "width": 64,
+      "height": 69,
+      "coordinateWidth": 430,
+      "backgroundKey": "white",
+      "sourceExport": "Cateogries page-4.png"
+    },
+    {
+      "asset": "assets/icons/activity.png",
+      "x": 336,
+      "y": 340,
+      "width": 65,
+      "height": 70,
+      "coordinateWidth": 430,
+      "backgroundKey": "white",
+      "sourceExport": "Cateogries page-5.png"
+    },
+    {
+      "asset": "assets/icons/nav_home.png",
+      "x": 339,
+      "y": 1271,
+      "width": 30,
+      "height": 33,
+      "coordinateWidth": 430,
+      "backgroundKey": "white",
+      "sourceExport": "Home Page.png"
+    },
+    {
+      "asset": "assets/icons/nav_gallery.png",
+      "x": 233,
+      "y": 1274,
+      "width": 31,
+      "height": 30,
+      "coordinateWidth": 430,
+      "backgroundKey": "white",
+      "sourceExport": "Home Page.png"
+    },
+    {
+      "asset": "assets/icons/nav_learning.png",
+      "x": 140,
+      "y": 1274,
+      "width": 31,
+      "height": 30,
+      "coordinateWidth": 430,
+      "backgroundKey": "white",
+      "sourceExport": "Home Page.png"
+    },
+    {
+      "asset": "assets/icons/nav_profile.png",
+      "x": 45,
+      "y": 1273,
+      "width": 31,
+      "height": 31,
+      "coordinateWidth": 430,
+      "backgroundKey": "white",
+      "sourceExport": "Home Page.png"
+    },
+    {
+      "asset": "assets/icons/profile_faq.png",
+      "crop": [
+        386,
+        567,
+        418,
+        599
+      ],
+      "method": "Native 32px crop; remove white matting",
+      "sourceExport": "Profile Page.png"
+    },
+    {
+      "asset": "assets/icons/profile_contact.png",
+      "crop": [
+        386,
+        614,
+        418,
+        646
+      ],
+      "method": "Native 32px crop; remove white matting",
+      "sourceExport": "Profile Page.png"
+    },
+    {
+      "asset": "assets/icons/profile_subscription.png",
+      "crop": [
+        386,
+        662,
+        418,
+        694
+      ],
+      "method": "Native 32px crop; remove white matting",
+      "sourceExport": "Profile Page.png"
+    },
+    {
+      "asset": "assets/icons/profile_achievement.png",
+      "crop": [
+        386,
+        710,
+        418,
+        742
+      ],
+      "method": "Native 32px crop; remove white matting",
+      "sourceExport": "Profile Page.png"
+    },
+    {
+      "asset": "assets/icons/profile_about.png",
+      "crop": [
+        386,
+        758,
+        418,
+        790
+      ],
+      "method": "Native 32px crop; remove white matting",
+      "sourceExport": "Profile Page.png"
+    },
+    {
+      "asset": "assets/icons/profile_privacy.png",
+      "crop": [
+        386,
+        803,
+        418,
+        835
+      ],
+      "method": "Native 32px crop; remove white matting",
+      "sourceExport": "Profile Page.png"
+    },
+    {
+      "asset": "assets/icons/profile_downloads.png",
+      "crop": [
+        386,
+        852,
+        418,
+        884
+      ],
+      "method": "Native 32px crop; remove white matting",
+      "sourceExport": "Profile Page.png"
+    },
+    {
+      "asset": "assets/icons/profile_terms.png",
+      "crop": [
+        386,
+        900,
+        418,
+        932
+      ],
+      "method": "Native 32px crop; remove white matting",
+      "sourceExport": "Profile Page.png"
+    },
+    {
+      "asset": "assets/icons/profile_tests.png",
+      "crop": [
+        386,
+        946,
+        418,
+        978
+      ],
+      "method": "Native 32px crop; remove white matting",
+      "sourceExport": "Profile Page.png"
+    },
+    {
+      "asset": "assets/icons/profile_edit.png",
+      "crop": [
+        386,
+        1060,
+        418,
+        1092
+      ],
+      "method": "Native 32px crop; remove white matting",
+      "sourceExport": "Profile Page.png"
+    },
+    {
+      "asset": "assets/icons/profile_logout.png",
+      "crop": [
+        386,
+        1109,
+        418,
+        1141
+      ],
+      "method": "Native 32px crop; remove white matting",
+      "sourceExport": "Profile Page.png"
+    },
+    {
+      "asset": "assets/icons/registration_badge.png",
+      "crop": [
+        154,
+        310,
+        289,
+        448
+      ],
+      "method": "Native crop; remove connected exterior background, preserve interior white",
+      "sourceExport": "Register-4.png"
+    },
+    {
+      "asset": "assets/icons/result_badge.png",
+      "crop": [
+        112,
+        98,
+        322,
+        269
+      ],
+      "method": "Native crop; remove connected exterior background, preserve interior white",
+      "sourceExport": "Quizze Pages-2.png"
+    },
+    {
+      "asset": "assets/icons/header_notification.png",
+      "crop": [
+        14,
+        75,
+        51,
+        112
+      ],
+      "method": "Native crop; remove connected exterior background, preserve interior white",
+      "sourceExport": "Profile Page.png"
+    },
+    {
+      "asset": "assets/icons/profile_arrow.png",
+      "crop": [
+        17,
+        574,
+        34,
+        593
+      ],
+      "method": "Native crop; remove connected exterior background, preserve interior white",
+      "sourceExport": "Profile Page.png"
+    },
+    {
+      "asset": "assets/icons/registration_male.png",
+      "crop": [
+        201,
+        438,
+        229,
+        466
+      ],
+      "method": "Native glyph crop; source color to alpha, preserving shape",
+      "sourceExport": "Register.png"
+    },
+    {
+      "asset": "assets/icons/registration_female.png",
+      "crop": [
+        201,
+        535,
+        229,
+        565
+      ],
+      "method": "Native glyph crop; source color to alpha, preserving shape",
+      "sourceExport": "Register.png"
+    },
+    {
+      "asset": "assets/icons/registration_school.png",
+      "crop": [
+        201,
+        463,
+        230,
+        493
+      ],
+      "method": "Native glyph crop; source color to alpha, preserving shape",
+      "sourceExport": "Register-2.png"
+    },
+    {
+      "asset": "assets/icons/registration_institute.png",
+      "crop": [
+        201,
+        669,
+        230,
+        699
+      ],
+      "method": "Native glyph crop; source color to alpha, preserving shape",
+      "sourceExport": "Register-2.png"
+    },
+    {
+      "asset": "assets/icons/registration_science.png",
+      "crop": [
+        201,
+        452,
+        230,
+        481
+      ],
+      "method": "Native glyph crop; source color to alpha, preserving shape",
+      "sourceExport": "Register-3.png"
+    },
+    {
+      "asset": "assets/icons/registration_literature.png",
+      "crop": [
+        201,
+        580,
+        230,
+        611
+      ],
+      "method": "Native glyph crop; source color to alpha, preserving shape",
+      "sourceExport": "Register-3.png"
+    },
+    {
+      "asset": "assets/icons/registration_commerce.png",
+      "crop": [
+        201,
+        710,
+        230,
+        741
+      ],
+      "method": "Native glyph crop; source color to alpha, preserving shape",
+      "sourceExport": "Register-3.png"
+    },
+    {
+      "asset": "assets/icons/registration_check.png",
+      "crop": [
+        31,
+        536,
+        58,
+        565
+      ],
+      "method": "Native glyph crop; source color to alpha, preserving shape",
+      "sourceExport": "Register.png"
+    },
+    {
+      "asset": "assets/images/about_education_logo.png",
+      "crop": [
+        128,
+        794,
+        303,
+        898
+      ],
+      "method": "Native source crop; white background removed",
+      "sourceExport": "Profile Page-1.png"
+    },
+    {
+      "asset": "assets/images/about_facebook.png",
+      "crop": [
+        110,
+        978,
+        154,
+        1024
+      ],
+      "method": "Native source crop; white background removed",
+      "sourceExport": "Profile Page-1.png"
+    },
+    {
+      "asset": "assets/images/about_instagram.png",
+      "crop": [
+        162,
+        978,
+        207,
+        1024
+      ],
+      "method": "Native source crop; white background removed",
+      "sourceExport": "Profile Page-1.png"
+    },
+    {
+      "asset": "assets/images/about_telegram.png",
+      "crop": [
+        213,
+        978,
+        259,
+        1024
+      ],
+      "method": "Native source crop; white background removed",
+      "sourceExport": "Profile Page-1.png"
+    },
+    {
+      "asset": "assets/images/about_whatsapp.png",
+      "crop": [
+        270,
+        978,
+        316,
+        1024
+      ],
+      "method": "Native source crop; white background removed",
+      "sourceExport": "Profile Page-1.png"
+    },
+    {
+      "asset": "assets/icons/referral_facebook.png",
+      "crop": [
+        344,
+        362,
+        370,
+        390
+      ],
+      "method": "Native source crop; white background removed",
+      "sourceExport": "Register-6.png"
+    },
+    {
+      "asset": "assets/icons/referral_friend.png",
+      "crop": [
+        222,
+        362,
+        250,
+        390
+      ],
+      "method": "Native source crop; white background removed",
+      "sourceExport": "Register-6.png"
+    },
+    {
+      "asset": "assets/icons/referral_school.png",
+      "crop": [
+        112,
+        362,
+        140,
+        390
+      ],
+      "method": "Native source crop; white background removed",
+      "sourceExport": "Register-6.png"
+    },
+    {
+      "asset": "assets/icons/referral_instagram.png",
+      "crop": [
+        218,
+        461,
+        246,
+        490
+      ],
+      "method": "Native source crop; white background removed",
+      "sourceExport": "Register-6.png"
+    },
+    {
+      "asset": "assets/icons/referral_other.png",
+      "crop": [
+        343,
+        461,
+        371,
+        491
+      ],
+      "method": "Native source crop; white background removed",
+      "sourceExport": "Register-6.png"
+    },
+    {
+      "asset": "assets/icons/contact_phone.png",
+      "crop": [
+        361,
+        761,
+        385,
+        786
+      ],
+      "method": "Native source crop; white background removed",
+      "sourceExport": "Profile Page-2.png"
+    },
+    {
+      "asset": "assets/icons/contact_description.png",
+      "crop": [
+        377,
+        839,
+        400,
+        864
+      ],
+      "method": "Native source crop; white background removed",
+      "sourceExport": "Profile Page-2.png"
+    },
+    {
+      "asset": "assets/icons/iconamoon_notification-thin.svg",
+      "figmaLayer": "iconamoon:notification-thin",
+      "resolvedName": "notification-thin",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/iconamoon.json",
+      "author": {
+        "name": "Dariush Habibpour",
+        "url": "https://github.com/dariushhpg1/IconaMoon"
+      },
+      "license": {
+        "title": "CC BY 4.0",
+        "spdx": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "asset": "assets/icons/lucide_edit.svg",
+      "figmaLayer": "lucide:edit",
+      "resolvedName": "square-pen",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/lucide.json",
+      "author": {
+        "name": "Lucide Contributors",
+        "url": "https://github.com/lucide-icons/lucide"
+      },
+      "license": {
+        "title": "ISC",
+        "spdx": "ISC",
+        "url": "https://github.com/lucide-icons/lucide/blob/main/LICENSE"
+      }
+    },
+    {
+      "asset": "assets/icons/iconoir_profile-circle.svg",
+      "figmaLayer": "iconoir:profile-circle",
+      "resolvedName": "profile-circle",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/iconoir.json",
+      "author": {
+        "name": "Luca Burgio",
+        "url": "https://github.com/iconoir-icons/iconoir"
+      },
+      "license": {
+        "title": "MIT",
+        "spdx": "MIT",
+        "url": "https://github.com/iconoir-icons/iconoir/blob/main/LICENSE"
+      }
+    },
+    {
+      "asset": "assets/icons/material-symbols_cancel-outline-rounded.svg",
+      "figmaLayer": "material-symbols:cancel-outline-rounded",
+      "source": "https://api.iconify.design/material-symbols/cancel-outline-rounded.svg",
+      "author": {
+        "name": "Google",
+        "url": "https://github.com/google/material-design-icons"
+      },
+      "license": {
+        "title": "Apache 2.0",
+        "spdx": "Apache-2.0",
+        "url": "https://github.com/google/material-design-icons/blob/master/LICENSE"
+      }
+    },
+    {
+      "asset": "assets/icons/weui_arrow-outlined.svg",
+      "figmaLayer": "weui:arrow-outlined",
+      "source": "https://api.iconify.design/weui/arrow-outlined.svg",
+      "author": {
+        "name": "WeUI",
+        "url": "https://github.com/weui/weui-icon"
+      },
+      "license": {
+        "title": "MIT",
+        "spdx": "MIT"
+      }
+    }
+  ]
+}

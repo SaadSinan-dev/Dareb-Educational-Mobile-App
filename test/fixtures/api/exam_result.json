@@ -1,0 +1,316 @@
+{
+  "message": "تمت العملية بنجاح",
+  "data": {
+    "id": 1,
+    "title": "بيانات تجريبية",
+    "type": {
+      "id": 2,
+      "name": "Exam"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "title": "بيانات تجريبية",
+        "answers": [
+          {
+            "id": 1,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 0
+          },
+          {
+            "id": 2,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 1
+          },
+          {
+            "id": 3,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 0
+          },
+          {
+            "id": 4,
+            "title": "بيانات تجريبية",
+            "correct": false,
+            "current_answer": 0
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "بيانات تجريبية",
+        "answers": [
+          {
+            "id": 5,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 0
+          },
+          {
+            "id": 6,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 1
+          },
+          {
+            "id": 7,
+            "title": "بيانات تجريبية",
+            "correct": false,
+            "current_answer": 0
+          },
+          {
+            "id": 8,
+            "title": "بيانات تجريبية",
+            "correct": false,
+            "current_answer": 0
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "بيانات تجريبية",
+        "answers": [
+          {
+            "id": 9,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 1
+          },
+          {
+            "id": 10,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 0
+          },
+          {
+            "id": 11,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 0
+          },
+          {
+            "id": 12,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 0
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "بيانات تجريبية",
+        "answers": [
+          {
+            "id": 13,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 1
+          },
+          {
+            "id": 14,
+            "title": "بيانات تجريبية",
+            "correct": false,
+            "current_answer": 0
+          },
+          {
+            "id": 15,
+            "title": "بيانات تجريبية",
+            "correct": false,
+            "current_answer": 0
+          },
+          {
+            "id": 16,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 0
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "بيانات تجريبية",
+        "answers": [
+          {
+            "id": 17,
+            "title": "بيانات تجريبية",
+            "correct": false,
+            "current_answer": 0
+          },
+          {
+            "id": 18,
+            "title": "بيانات تجريبية",
+            "correct": false,
+            "current_answer": 0
+          },
+          {
+            "id": 19,
+            "title": "بيانات تجريبية",
+            "correct": false,
+            "current_answer": 0
+          },
+          {
+            "id": 20,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 1
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "بيانات تجريبية",
+        "answers": [
+          {
+            "id": 21,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 1
+          },
+          {
+            "id": 22,
+            "title": "بيانات تجريبية",
+            "correct": false,
+            "current_answer": 0
+          },
+          {
+            "id": 23,
+            "title": "بيانات تجريبية",
+            "correct": false,
+            "current_answer": 0
+          },
+          {
+            "id": 24,
+            "title": "بيانات تجريبية",
+            "correct": false,
+            "current_answer": 0
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "بيانات تجريبية",
+        "answers": [
+          {
+            "id": 25,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 1
+          },
+          {
+            "id": 26,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 0
+          },
+          {
+            "id": 27,
+            "title": "بيانات تجريبية",
+            "correct": false,
+            "current_answer": 0
+          },
+          {
+            "id": 28,
+            "title": "بيانات تجريبية",
+            "correct": false,
+            "current_answer": 0
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "بيانات تجريبية",
+        "answers": [
+          {
+            "id": 29,
+            "title": "بيانات تجريبية",
+            "correct": false,
+            "current_answer": 0
+          },
+          {
+            "id": 30,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 1
+          },
+          {
+            "id": 31,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 0
+          },
+          {
+            "id": 32,
+            "title": "بيانات تجريبية",
+            "correct": false,
+            "current_answer": 0
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "بيانات تجريبية",
+        "answers": [
+          {
+            "id": 33,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 1
+          },
+          {
+            "id": 34,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 0
+          },
+          {
+            "id": 35,
+            "title": "بيانات تجريبية",
+            "correct": false,
+            "current_answer": 0
+          },
+          {
+            "id": 36,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 0
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "بيانات تجريبية",
+        "answers": [
+          {
+            "id": 37,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 1
+          },
+          {
+            "id": 38,
+            "title": "بيانات تجريبية",
+            "correct": true,
+            "current_answer": 0
+          },
+          {
+            "id": 39,
+            "title": "بيانات تجريبية",
+            "correct": false,
+            "current_answer": 0
+          },
+          {
+            "id": 40,
+            "title": "بيانات تجريبية",
+            "correct": false,
+            "current_answer": 0
+          }
+        ]
+      }
+    ],
+    "questions_count": 10,
+    "correct_answers": 10,
+    "failed_answers": 0
+  }
+}

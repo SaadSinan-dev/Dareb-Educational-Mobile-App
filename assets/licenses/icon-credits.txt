@@ -1,0 +1,31 @@
+Figma icon attribution
+
+iconamoon:notification-thin — Dariush Habibpour
+https://github.com/dariushhpg1/IconaMoon
+CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+Source: https://raw.githubusercontent.com/iconify/icon-sets/master/json/iconamoon.json
+Unmodified vector geometry; runtime colors/rotation follow the design context.
+
+lucide:edit — Lucide Contributors
+https://github.com/lucide-icons/lucide
+ISC https://github.com/lucide-icons/lucide/blob/main/LICENSE
+Source: https://raw.githubusercontent.com/iconify/icon-sets/master/json/lucide.json
+Unmodified vector geometry; runtime colors/rotation follow the design context.
+
+iconoir:profile-circle — Luca Burgio
+https://github.com/iconoir-icons/iconoir
+MIT https://github.com/iconoir-icons/iconoir/blob/main/LICENSE
+Source: https://raw.githubusercontent.com/iconify/icon-sets/master/json/iconoir.json
+Unmodified vector geometry; runtime colors/rotation follow the design context.
+
+material-symbols:cancel-outline-rounded — Google
+https://github.com/google/material-design-icons
+Apache 2.0 https://github.com/google/material-design-icons/blob/master/LICENSE
+Source: https://api.iconify.design/material-symbols/cancel-outline-rounded.svg
+Unmodified vector geometry; runtime colors/rotation follow the design context.
+
+weui:arrow-outlined — WeUI
+https://github.com/weui/weui-icon
+MIT 
+Source: https://api.iconify.design/weui/arrow-outlined.svg
+Unmodified vector geometry; runtime colors/rotation follow the design context.

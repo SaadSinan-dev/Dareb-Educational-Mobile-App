@@ -1,0 +1,60 @@
+{
+  "message": "تمت العملية بنجاح",
+  "data": {
+    "id": 9,
+    "name": "بيانات تجريبية",
+    "is_free": false,
+    "order": 3,
+    "type": {
+      "id": 2,
+      "name": "Video"
+    },
+    "time": "15:48:09",
+    "url": "https://example.test/videos/lesson.mp4",
+    "drive_link_360": null,
+    "drive_link_720": null,
+    "semester": {
+      "id": 5,
+      "name": "بيانات تجريبية",
+      "is_free": true,
+      "price": 61,
+      "lessions": [
+        {
+          "id": 9,
+          "name": "بيانات تجريبية",
+          "is_free": false,
+          "order": 3,
+          "type": {
+            "id": 2,
+            "name": "Video"
+          },
+          "time": "15:48:09",
+          "url": "https://example.test/videos/lesson.mp4",
+          "drive_link_360": null,
+          "drive_link_720": null,
+          "is_subscription": false,
+          "is_attended": true
+        },
+        {
+          "id": 10,
+          "name": "بيانات تجريبية",
+          "is_free": false,
+          "order": 8,
+          "type": {
+            "id": 3,
+            "name": "Exam"
+          },
+          "is_subscription": false,
+          "is_attended": false
+        }
+      ],
+      "lessions_count": 2,
+      "lession_rate": 50,
+      "is_subscription": false,
+      "subscriptions_count": 0
+    },
+    "comments": [],
+    "is_subscription": false,
+    "is_attended": true
+  }
+}
